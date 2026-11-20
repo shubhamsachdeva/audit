@@ -1,0 +1,9 @@
+node_modules/
+dist/
+dist-ssr/
+.cursor/
+*.local
+.env
+.env.*
+app/scripts/yt-report.json
+.DS_Store
